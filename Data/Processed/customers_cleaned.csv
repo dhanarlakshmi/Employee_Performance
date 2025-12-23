@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Segment,City,State,Region
+CUST001,Customer 1,Consumer,Bangalore,KA,South
+CUST002,Customer 2,Corporate,Hyderabad,TS,South
+CUST003,Customer 3,Corporate,Bangalore,KA,South
+CUST004,Customer 4,Home Office,Mumbai,MH,West
+CUST005,Customer 5,Home Office,Chennai,TN,South
+CUST006,Customer 6,Home Office,Kolkata,WB,East
+CUST007,Customer 7,Home Office,Mumbai,MH,West
+CUST008,Customer 8,Home Office,Kolkata,WB,East
+CUST009,Customer 9,Consumer,Mumbai,MH,West
+CUST010,Customer 10,Consumer,Bangalore,KA,South
+CUST011,Customer 11,Home Office,Chennai,TN,South
+CUST012,Customer 12,Consumer,Bangalore,KA,South
+CUST013,Customer 13,Corporate,Chennai,TN,South
+CUST014,Customer 14,Consumer,Hyderabad,TS,South
+CUST015,Customer 15,Corporate,Delhi,DL,North
+CUST016,Customer 16,Corporate,Hyderabad,TS,South
+CUST017,Customer 17,Corporate,Kolkata,WB,East
+CUST018,Customer 18,Consumer,Mumbai,MH,West
+CUST019,Customer 19,Home Office,Kolkata,WB,East
+CUST020,Customer 20,Corporate,Mumbai,MH,West
+CUST021,Customer 21,Corporate,Kolkata,WB,East
+CUST022,Customer 22,Home Office,Delhi,DL,North
+CUST023,Customer 23,Corporate,Kolkata,WB,East
+CUST024,Customer 24,Home Office,Chennai,TN,South
+CUST025,Customer 25,Consumer,Hyderabad,TS,South
+CUST026,Customer 26,Consumer,Bangalore,KA,South
+CUST027,Customer 27,Corporate,Chennai,TN,South
+CUST028,Customer 28,Corporate,Hyderabad,TS,South
+CUST029,Customer 29,Consumer,Hyderabad,TS,South
+CUST030,Customer 30,Corporate,Hyderabad,TS,South
+CUST031,Customer 31,Corporate,Bangalore,KA,South
+CUST032,Customer 32,Corporate,Delhi,DL,North
+CUST033,Customer 33,Corporate,Mumbai,MH,West
+CUST034,Customer 34,Corporate,Delhi,DL,North
+CUST035,Customer 35,Home Office,Delhi,DL,North
+CUST036,Customer 36,Consumer,Mumbai,MH,West
+CUST037,Customer 37,Corporate,Delhi,DL,North
+CUST038,Customer 38,Consumer,Chennai,TN,South
+CUST039,Customer 39,Home Office,Mumbai,MH,West
+CUST040,Customer 40,Home Office,Chennai,TN,South
+CUST041,Customer 41,Home Office,Kolkata,WB,East
+CUST042,Customer 42,Home Office,Kolkata,WB,East
+CUST043,Customer 43,Consumer,Chennai,TN,South
+CUST044,Customer 44,Home Office,Kolkata,WB,East
+CUST045,Customer 45,Consumer,Bangalore,KA,South
+CUST046,Customer 46,Home Office,Kolkata,WB,East
+CUST047,Customer 47,Corporate,Delhi,DL,North
+CUST048,Customer 48,Home Office,Bangalore,KA,South
+CUST049,Customer 49,Consumer,Delhi,DL,North
+CUST050,Customer 50,Consumer,Kolkata,WB,East

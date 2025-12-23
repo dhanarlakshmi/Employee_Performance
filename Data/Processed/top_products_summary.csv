@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Total_Sales,Total_Profit,Total_Quantity
+PROD039,Binders Product 39,Office Supplies,62146.520000000004,11608.349999999999,48
+PROD063,Tables Product 63,Furniture,61926.380000000005,6995.25,33
+PROD071,Bookcases Product 71,Furniture,59180.8,8821.619999999999,39
+PROD062,Tables Product 62,Furniture,54820.47,7684.4400000000005,24
+PROD025,Paper Product 25,Office Supplies,53882.17,10072.1,33
+PROD021,Laptops Product 21,Technology,53626.200000000004,11239.169999999998,27
+PROD034,Binders Product 34,Office Supplies,52313.840000000004,5401.05,23
+PROD046,Storage Product 46,Office Supplies,48809.71,6936.66,39
+PROD024,Laptops Product 24,Technology,44997.990000000005,8776.24,19
+PROD016,Accessories Product 16,Technology,44693.47,7556.98,21
