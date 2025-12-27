@@ -10,10 +10,12 @@ Focuses on attrition, performance trends, and HR metrics. Demonstrates advanced 
 
 Click the images to open full screenshots:
 
-[![Dashboard 1](PowerBI/dashboard_1.png)](PowerBI/<img width="1146" height="735" alt="dashboard_1" src="https://github.com/user-attachments/assets/2284301b-b46e-4d9c-8021-c05618e23407" />
-)
-[![Dashboard 2](PowerBI/dashboard_2.png)](PowerBI/<img width="1160" height="740" alt="dashboard_2" src="https://github.com/user-attachments/assets/7bfa0a6d-34ca-4ec2-9d6d-f126c43ebe19" />
-)
+[![Dashboard 1](PowerBI/dashboard_1.png)](PowerBI/dashboard_1.png)
+[![Dashboard 2](PowerBI/dashboard_2.png)](PowerBI/dashboard_2.png)
+
+
+
+
 
 ---
 
