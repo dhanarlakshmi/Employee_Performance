@@ -18,11 +18,10 @@ This project demonstrates an end-to-end analysis of employee performance and att
 ---
 
 ## Dashboard Preview
-[![Dashboard 1](PowerBI/dashboard_1.png.png)](PowerBI/dashboard_1.png.png)  
-[![Dashboard 2](PowerBI/dashboard_2.png.png)](PowerBI/dashboard_2.png.png)  
+[![Dashboard 1](PowerBI/dashboard_1.png)](PowerBI/dashboard_1.png)  
+[![Dashboard 2](PowerBI/dashboard_2.png)](PowerBI/dashboard_2.png)  
 
-## PDF Report
-[Employee Performance Report](PowerBI/Employee_Performance_Report.pdf.pdf)
+[Employee Performance Report](PowerBI/Employee_Performance_Report.pdf)
 
 
 
