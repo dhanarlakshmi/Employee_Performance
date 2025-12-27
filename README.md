@@ -1,72 +1,112 @@
 # Employee Performance Analysis Dashboard
 
-**Project Overview:**  
-End-to-end **Employee Performance Analysis** using **Power BI, Python, and SQL**.  
-Focuses on attrition, performance trends, and HR metrics. Demonstrates advanced report design, calculated measures, and interactive dashboards.
+## 📊 Project Overview
+This project presents an **end-to-end Employee Performance Analysis** solution built using  
+**Python, SQL, and Power BI**.
+
+The objective of this project is to analyze employee performance, attrition patterns, and
+key HR metrics to support data-driven decision-making.  
+The solution covers the complete analytics lifecycle — from raw data processing to
+interactive dashboard visualization.
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI** – Data modeling, DAX measures, interactive dashboards
+- **Python** – Data cleaning and preprocessing
+- **SQL** – Aggregations and summary-level analysis
+- **CSV** – Source and processed datasets
+
+---
+
+## 📂 Project Structure
+Employee_Performance/
+├── Data/
+│ ├── Raw/ # Original datasets
+│ └── Clean/ # Cleaned datasets after preprocessing
+│
+├── Python_analysis/
+│ └── data_cleaning.py # Python script for data cleaning
+│
+├── SQL/
+│ └── employee_summary.sql # SQL queries for analysis
+│
+├── PowerBI/
+│ ├── Employee_performance.pbix
+│ ├── dashboard_1.png
+│ ├── dashboard_2.png
+│ └── Employee_Performance_Report.pdf
+│
+└── README.md
+
 
 ---
 
 ## 📸 Dashboard Preview
 
-Click the images to open full screenshots:
+Click the images to view them in full size:
 
-[![Dashboard 1](PowerBI/dashboard_1.png)](PowerBI/dashboard_1.png)
-[![Dashboard 2](PowerBI/dashboard_2.png)](PowerBI/dashboard_2.png)
-
-
-
-
+[![Dashboard Overview](PowerBI/dashboard_1.png)](PowerBI/dashboard_1.png)  
+[![Performance & Attrition Analysis](PowerBI/dashboard_2.png)](PowerBI/dashboard_2.png)
 
 ---
 
-## 📄 Interactive PDF Report
+## 📄 PDF Report
+A detailed, presentation-ready report is available here:
 
-View the full report here:  
-[Employee Performance Report](PowerBI/Employee_Performance_Report.pdf)  
-
-*Click the link to open the PDF in a new tab or download it.*
+👉 [Employee Performance Report (PDF)](PowerBI/Employee_Performance_Report.pdf)
 
 ---
 
 ## 🔍 Key Insights
-
-- Gender-wise attrition analysis (Male vs Female)  
-- Performance distribution by department and tenure  
-- Retention trends and early warning indicators  
-- Identified key patterns driving employee performance  
-
----
-
-## 🗂 Data Sources
-
-- `Data/Raw/` – Original CSV files  
-- `Data/Clean/` – Preprocessed and cleaned data  
-- `Python_analysis/data_cleaning.py` – Python scripts for preprocessing  
-- `SQL/employee_summary.sql` – SQL queries for summary reports  
-
-*All data cleaned, validated, and transformed using Python & SQL.*
+- Gender-wise attrition comparison (Male vs Female)
+- Department-level performance distribution
+- Identification of high-risk attrition segments
+- Performance trends based on experience and tenure
+- KPI-driven summary for management-level decision-making
 
 ---
 
 ## ⚙️ Technical Highlights
-
-- Created calculated measures in Power BI (e.g., Male Attrition %, Female Attrition %, Ratio)  
-- Applied **DAX** for KPIs and trend analysis  
-- Used Python for data cleaning and preprocessing  
-- Combined Python, SQL, and Power BI for actionable insights  
+- Designed a star-schema-based data model in Power BI
+- Created custom **DAX measures** for:
+  - Attrition rate
+  - Gender ratio
+  - Performance KPIs
+- Performed data cleaning using Python:
+  - Handling null values
+  - Standardizing columns
+  - Data validation
+- Used SQL for summary tables and aggregations
+- Implemented slicers and filters for interactive analysis
 
 ---
 
 ## 🚀 How to Use
-
-1. Open `PowerBI/Employee_performance.pbix` in Power BI to interact with the dashboard.  
-2. Click the linked screenshots to view them in full size.  
-3. Access the full PDF report via the clickable link.  
-4. Run Python and SQL scripts for reproducibility or further analysis.  
+1. Open `PowerBI/Employee_performance.pbix` in Power BI Desktop
+2. Interact with slicers and visuals to explore insights
+3. Refer to the PDF report for a static summary
+4. Review Python and SQL scripts for data preparation logic
 
 ---
 
-## 📝 Notes / Future Work
+## 📈 Business Value
+This dashboard helps HR and management teams:
+- Monitor employee performance trends
+- Identify attrition risks early
+- Improve workforce planning
+- Support strategic HR decisions with data
 
-- Potential to integrate predictive attrition models using Python  
-- Plan to add dynamic dashboards for executive reporting
+---
+
+## 🔮 Future Enhancements
+- Add predictive attrition modeling using Python
+- Integrate live database connections
+- Automate refresh using Power BI Service
+- Add role-based dashboards for executives and HR teams
+
+
+
+🔹 Next project (SQL-heavy or Python-heavy)
+
+Just tell me what you want next, Dhana 💙
